@@ -1,0 +1,30 @@
+<?php
+return array(
+    'reviews' => 'Reviews List',
+    'create_title' => 'Create Reviews',
+    'edit_title' => 'Edit Reviews',
+    'name' => 'Name',
+    'email' => 'Email',
+    'phone' => 'Phone',
+    'review' => 'Review',
+    'service_name' => 'Service Name',
+    'address' => 'Address',
+    'notes' => 'Notes',
+    'title' => 'Title in English',
+    'title_required' => 'Please Give A Title Name',
+    'create_reviews' => 'Reviews Created Successfully',
+    'index_title' => 'List of Reviews',
+    'status_reviews' => 'Reviews Status Updated',
+    'details' => 'Reviews Details',
+    'update_reviews' => 'Reviews Updated',
+    'delete_reviews' => 'Reviews Deleted',
+    'trash_title' => 'List Of Deleted Reviews',
+    'restore_reviews' => 'Reviews Restored',
+
+
+    'rating' => 'Rating',
+    'details' => 'Details',
+    'view_details' => 'View Details',
+    'created_at' => 'Created at',
+    'back' => 'Back',
+);

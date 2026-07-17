@@ -1,0 +1,23 @@
+<?php
+return array(
+    'create_clients' => 'Clients',
+    'create_title' => 'Create Clients',
+    'edit_title' => 'Edit Clients',
+    'email' => 'email',
+    'phone' => 'phone',
+    'designation' => 'Designation',
+    'address' => 'Address',
+    'company_name' => 'Company Name',
+    'description' => 'Quotes',
+    'name' => 'Clients Name in English',
+    'name_required' => 'Please Give A Client Name',
+    'designation_required' => 'Please Give A Client Designation',
+    'create_message' => 'Clients Created Successfully',
+    'index_title' => 'List of Clients',
+    'status_message' => 'Clients Status Updated',
+    'details' => 'Clients Details',
+    'update_message' => 'Clients Updated',
+    'delete_message' => 'Clients Deleted',
+    'trash_title' => 'List Of Deleted Clients',
+    'restore_message' => 'Clients Restored',
+);

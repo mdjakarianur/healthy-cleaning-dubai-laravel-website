@@ -1,0 +1,20 @@
+<?php
+return array(
+    'home_faq' => 'Home Faq',
+    'create_title' => 'Create Home Faq',
+    'edit_title' => 'Edit Home Faq',
+    'questions' => 'Questions',
+    'questions_required' => 'Please Give A Questions',
+    'questions_unique' => 'This Questions is Already Taken',
+    'answer' => 'Answer',
+    'answer_required' => 'Please Give A Answer',
+    'answer_unique' => 'This Answer is Already Taken',
+    'create_message' => 'Home Faq Created Successfully',
+    'index_title' => 'List of Home Faq',
+    'status_message' => 'Home Faq Status Updated',
+    'details' => 'Home Faq Details',
+    'update_message' => 'Home Faq Updated',
+    'delete_message' => 'Home Faq Deleted',
+    'trash_title' => 'List Of Deleted Home Faq',
+    'restore_message' => 'Home Faq Restored',
+);

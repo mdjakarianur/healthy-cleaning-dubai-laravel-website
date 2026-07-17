@@ -1,0 +1,27 @@
+<?php
+return array(
+    'faq' => 'Faq',
+    'create_title' => 'Create Faq',
+    'edit_title' => 'Edit Faq',
+    'questions' => 'Questions',
+    'questions_required' => 'Please Give A Questions',
+    'questions_unique' => 'This Questions is Already Taken',
+    'answer' => 'Answer',
+    'answer_required' => 'Please Give A Answer',
+    'answer_unique' => 'This Answer is Already Taken',
+    'create_message' => 'Faq Created Successfully',
+    'index_title' => 'List of Faq',
+    'status_message' => 'Faq Status Updated',
+    'details' => 'Faq Details',
+    'update_message' => 'Faq Updated',
+    'delete_message' => 'Faq Deleted',
+    'trash_title' => 'List Of Deleted Faq',
+    'restore_message' => 'Faq Restored',
+
+    'category' => 'Category',
+    'select_category' => 'Select Category',
+    'category_id_required' => 'Please Select A Category',
+    'service' => 'Service',
+    'select_service' => 'Select Service',
+    'service_id_required' => 'Please Select A Service',
+);
